@@ -1,4 +1,4 @@
-# preface 
+# Preface 
 
 projektet omhandler migrerings af enterprice data fra mySQL til Prostgres
 
